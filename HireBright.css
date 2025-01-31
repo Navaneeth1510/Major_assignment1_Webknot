@@ -567,16 +567,17 @@ body::-webkit-scrollbar {
 .pics{
     width:520px;
     height:341px;
-    margin-left:50px;
 }
-
+.pix{
+    margin-left:200px;
+}
 
 .formstart{
     height:629px;
     margin-top: 50px;
 }
 .form-body{
-    width:1350px;
+    width:1536px;
     height:629px;
     display: flex;
 }
@@ -604,6 +605,7 @@ body::-webkit-scrollbar {
 }
 .right-div{
     width:814px;
+    margin-left:100px;
 }
 form {
     flex-direction: column;
